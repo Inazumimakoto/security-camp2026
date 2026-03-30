@@ -1,59 +1,56 @@
 # ご飯ログ
 
-写真は `photos/` に置く。
-
-おすすめのファイル名:
-
-- `day1-night.jpg`
-- `day2-breakfast.jpg`
-- `day2-lunch.jpg`
-- `day2-dinner.jpg`
-- `day3-breakfast.jpg`
-- `day3-lunch.jpg`
-- `day3-dinner.jpg`
-- `day4-breakfast.jpg`
-- `day4-lunch.jpg`
+写真は `photos/` 以下に食事ごとのディレクトリで置く。
 
 ## 1日目
 
 ### 夜
 
-![](photos/day1-night.jpg)
+![1日目 夜 1](photos/１日目夜/IMG_4496.JPG)
+![1日目 夜 2](photos/１日目夜/IMG_4497.JPG)
+![1日目 夜 3](photos/１日目夜/IMG_4498.JPG)
+![1日目 夜 4](photos/１日目夜/IMG_4499.JPG)
 
 ## 2日目
 
 ### 朝
 
-![](photos/day2-breakfast.jpg)
+![2日目 朝 1](photos/２日目A朝/IMG_4502.JPG)
 
 ### 昼
 
-![](photos/day2-lunch.jpg)
+![2日目 昼 1](photos/２日目B昼/IMG_4503.JPG)
 
 ### 夜
 
-![](photos/day2-dinner.jpg)
+![2日目 夜 1](photos/２日目C夜/IMG_4504.jpg)
+![2日目 夜 2](photos/２日目C夜/IMG_4505.JPG)
+![2日目 夜 3](photos/２日目C夜/IMG_4506.JPG)
+![2日目 夜 4](photos/２日目C夜/IMG_4507.JPG)
 
 ## 3日目
 
 ### 朝
 
-![](photos/day3-breakfast.jpg)
+![3日目 朝 1](photos/３日目A朝/IMG_4510.JPG)
 
 ### 昼
 
-![](photos/day3-lunch.jpg)
+![3日目 昼 1](photos/３日目B昼/IMG_4512.JPG)
+![3日目 昼 2](photos/３日目B昼/IMG_4513.JPG)
 
 ### 夜
 
-![](photos/day3-dinner.jpg)
+![3日目 夜 1](photos/３日目C夜/IMG_4515.JPG)
+![3日目 夜 2](photos/３日目C夜/IMG_4516.jpg)
 
 ## 4日目
 
 ### 朝
 
-![](photos/day4-breakfast.jpg)
+![4日目 朝 1](photos/４日目A朝/IMG_4522.JPG)
 
 ### 昼
 
-![](photos/day4-lunch.jpg)
+![4日目 昼 1](photos/４日目B昼/IMG_4527.JPG)
+![4日目 昼 2](photos/４日目B昼/IMG_4528.JPG)
